@@ -1,3 +1,4 @@
+![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamrahum&show_icons=true&theme=radical)
 - 👋 Sup, I’m @liamrahum
 - 👀 I’m interested in Tech, design and philosophy
 - 🌱 I’m currently learning advanced C++ and Linux
