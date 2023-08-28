@@ -6,7 +6,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamrahum&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="liamrahum" /></p>
 
 
-- 🌱 I’m currently learning **Advanced C++ workflow**
+- 🌱 I’m currently working on my own C compiler
 - 👨‍💻 Some of my projects are available on [my GitLab!](https://gitlab.com/liamrahum)
 - 📫 Reach me by mail **liam@rahum.co.il**
 
