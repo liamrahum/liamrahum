@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on my own C compiler
 - 👨‍💻 Some of my projects are available on [my GitLab!](https://gitlab.com/liamrahum)
-- 📫 Reach me by mail **liam@rahum.co.il**
+- 📫 You can email me at **liam@rahum.co.il**
 
 <h3 align="left">My current stack:</h3>
 <p align="left">
